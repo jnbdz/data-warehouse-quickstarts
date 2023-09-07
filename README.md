@@ -36,9 +36,14 @@ Data warehouse (DW) quickstarts!
 
 ### Conclusion
 
+## Resources
+
 While data lakes are suited for storing vast amounts of raw data and data warehouses are optimized for high-speed querying of structured data, the data lakehouse paradigm attempts to offer the best of both worlds. The choice between these architectures often depends on the specific requirements, budget, and future goals of an organization.
 
-## Data Management Body of Knowledge (DMBOK)
+### Tools
+- [ER/Studio](https://www.idera.com/products/er-studio/enterprise-data-modeling/) - Data Modeling Tools for Enterprise-Scale Data Architecture
+
+### Data Management Body of Knowledge (DMBOK)
 Books: 
 - https://technicspub.com/dmbok/
 - [The DAMA Dictionary of Data Management, 2nd Edition](https://www.amazon.ca/DAMA-Dictionary-Data-Management-2nd/dp/1935504126/)
@@ -49,3 +54,6 @@ Books:
 - [The Data Warehouse ETL Toolkit: Practical Techniques for Extracting, Cleaning, Conforming, and Delivering Data](https://www.amazon.ca/gp/product/0764567578/)
 - [The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling](https://www.amazon.ca/gp/product/1118530802/)
 - [The Data Warehouse Lifecycle Toolkit](https://www.amazon.ca/gp/product/0470149779/)
+
+### Other
+- [IBM | Data warehouse solutions](https://www.ibm.com/data-warehouse)
