@@ -1,4 +1,4 @@
-<img src="assets/dw.webp" alt="Data warehouse (DW)" style="width: 255px;" align="right">
+<img src="assets/dw.webp" alt="Data warehouse (DW)" style="width: 380px;" align="right">
 
 # Data Warehouse | Quickstarts
 Data warehouse (DW) quickstarts!
